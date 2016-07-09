@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 5fd8934dc2ce3bc4cac084f4dbdb2b67
+timeCreated: 1466862358
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_0
+    21300002: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_1
+    21300004: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_2
+    21300006: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_3
+    21300008: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_4
+    21300010: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_5
+    21300012: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_6
+    21300014: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_7
+    21300016: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_8
+    21300018: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_9
+    21300020: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_10
+    21300022: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_11
+    21300024: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_12
+    21300026: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_13
+    21300028: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_14
+    21300030: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_15
+    21300032: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_16
+    21300034: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_17
+    21300036: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_18
+    21300038: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_19
+    21300040: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_20
+    21300042: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_21
+    21300044: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_22
+    21300046: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_23
+    21300048: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_24
+    21300050: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 96
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 351
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 350
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 353
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 352
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 351
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 341
+        width: 107
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 284
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 282
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 231
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 246
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 183
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 167
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 118
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 118
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 150
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 86
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 70
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 22
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 22
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_lost_souls_tiles_update_3_by_lostsoulsdev-d5kpkld_25
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 54
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
