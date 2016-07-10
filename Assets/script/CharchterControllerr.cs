@@ -11,26 +11,37 @@ public class CharchterControllerr : NetworkBehaviour
     float input_y;
     // Use this for initialization
     private Transform myTransform;
+   
+  
     void Start () {
         myTransform = GetComponent<Transform>();
+       
         anim = GetComponent<Animator>();
         if (isLocalPlayer)
         {
-            myTransform.FindChild("camera").GetComponent<Camera>().enabled = true;
+            GetComponent<BoxCollider2D>().enabled = true;
+            myTransform.FindChild("Camera").GetComponent<Camera>().enabled = true;
+          
         }
-		
-	}
+       
+
+    }
 
     // Update is called once per frame
     void Update() {
-        
 
-        if (isLocalPlayer) { 
-           input_x = Input.GetAxisRaw("Horizontal");
+        if (isLocalPlayer)
+        {
+         
+
+      
+
+        input_x = Input.GetAxisRaw("Horizontal");
            input_y = Input.GetAxisRaw("Vertical");
-       
-        bool isWalking = (Mathf.Abs(input_x) + Mathf.Abs(input_y)) > 0;
-        
+
+
+
+            bool isWalking = (Mathf.Abs(input_x) + Mathf.Abs(input_y)) > 0;
             anim.SetBool("isWalking", isWalking);
             if (isWalking)
             {
@@ -40,9 +51,18 @@ public class CharchterControllerr : NetworkBehaviour
                 transform.position += new Vector3(input_x, input_y, 0).normalized * speed;
 
             }
-        
-        
+
+
+        }
+
+
+
+
+
+
     }
-    }
+
+   
+
 
 }
